@@ -1,101 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\",
+  "WorkspaceRootPath": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|c:\\users\\alisa\\downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\st10037089 (prog3ap2 final)\\st10037089 (prog3ap2 final)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|c:\\github projects\\farmhub-ecom\\st10037089 (prog3ap2 final)\\st10037089 (prog3ap2 final)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|c:\\github projects\\farmhub-ecom\\st10037089 (prog3ap2 final)\\st10037089 (prog3ap2 final)\\wwwroot\\bootstrap.min (6).css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\wwwroot\\bootstrap.min (6).css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\models\\farmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\models\\farmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\controllers\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\controllers\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\models\\farmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\models\\farmers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\marketplace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\marketplace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\migrations\\20240531113020_1stmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\migrations\\20240531113020_1stmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\migrations\\20240531115503_addmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\migrations\\20240531115503_addmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\alisa\\downloads\\prog7311---programming-3a---part-2-alisadthool\\st10037089 (prog3ap2 final)\\st10037089 (prog3ap2 final)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\controllers\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\controllers\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\marketplace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\marketplace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\migrations\\20240531113020_1stmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\migrations\\20240531113020_1stmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\st10037089 (prog3ap2 final)\\data\\migrations\\20240531115503_addmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F67F47-20E0-4C98-BE98-DB9372B975CB}|ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj|solutionrelative:st10037089 (prog3ap2 final)\\data\\migrations\\20240531115503_addmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,35 +114,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "productsController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:17:52.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAABFAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T14:37:28.191Z"
+              "WhenOpened": "2024-05-31T11:31:52.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min (6).css",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\bootstrap.min (6).css",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\wwwroot\\bootstrap.min (6).css",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\bootstrap.min (6).css",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\wwwroot\\bootstrap.min (6).css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T08:32:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Program.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Program.cs",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Program.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Program.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Program.cs",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Program.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAAAFkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,23 +152,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "products.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\products.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Models\\products.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\products.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Models\\products.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:14:05.835Z"
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T07:58:23.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "farmers.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Models\\farmers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,36 +176,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\products\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T14:42:25.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T11:31:52.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -210,179 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "farmersController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\farmersController.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Controllers\\farmersController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\farmersController.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Controllers\\farmersController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAIwJ8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:17:18.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "marketplace.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:35:51.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\prog7311---programming-3a---part-2-alisadthool\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "..\\..\\..\\prog7311---programming-3a---part-2-alisadthool\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-31T15:24:02.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAE0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T11:46:52.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAD0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T18:17:32.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T14:44:42.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:19:24.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:46:54.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-31T11:44:59.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T12:00:19.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20240531115503_addmig.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:55:04.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20240531113020_1stmigg.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:30:21.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T11:24:34.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.json",
-              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\appsettings.json",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.json",
-              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T11:19:06.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -390,15 +212,195 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T11:18:33.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "products.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\products.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Models\\products.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Models\\products.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Models\\products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:14:05.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\marketplace\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T14:37:28.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productsController.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Controllers\\productsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:17:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "marketplace.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Controllers\\marketplace.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:35:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAE0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:46:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\farmers\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T18:17:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T14:44:42.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:19:24.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:46:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-31T11:44:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T12:00:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240531115503_addmig.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531115503_addmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:55:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240531113020_1stmigg.cs",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\Data\\Migrations\\20240531113020_1stmigg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:30:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T11:24:34.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.json",
+              "RelativeDocumentMoniker": "ST10037089 (prog3ap2 Final)\\appsettings.json",
+              "ToolTip": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\appsettings.json",
+              "RelativeToolTip": "ST10037089 (prog3ap2 Final)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T11:19:06.516Z"
             }
           ]
         }

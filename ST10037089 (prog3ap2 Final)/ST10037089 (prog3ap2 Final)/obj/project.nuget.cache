@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uc/P3BYm2L/d7WrHwyjALyRhMNU5102gfPPjgXI71xFunusHMe8sPJui1ZnioAqFMtb+o/HccU3SOaH2xF6emA==",
+  "dgSpecHash": "DnT+hW2Vh8quPebTQd+pskBJGvBTM6EzZe1iLiLgZOZ2incHIfBPPi/KeucIKzNhpG6zdaXZg4B9bU9sUsuq5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alisa\\Downloads\\prog7311---programming-3a---part-2-alisadthool-main (1)\\prog7311---programming-3a---part-2-alisadthool-main\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj",
+  "projectFilePath": "C:\\github projects\\FarmHub-Ecom\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final)\\ST10037089 (prog3ap2 Final).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alisa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
