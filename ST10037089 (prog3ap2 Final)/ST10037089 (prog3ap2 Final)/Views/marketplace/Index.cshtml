@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ST10037089__prog3ap2_Final_.Models.products>
+
+@{
+    ViewData["Title"] = "Market Place";
+}
+
+<h3 class="my-4">Market Place</h3>
+<form asp-action="Index" class="col-2 my-1 p-2">
+    <div>
+        Filter search
+        <div class="my-1">
+            <input type="text" name="searchString" placeholder="Product Type or farmer nam" class="form-control-sm col-12" />
+        </div>
+        <div class="my-1">
+            <input type="date" name="MinDate" placeholder="Min Date" class="form-control-sm col-5" />&nbsp;&#8212;&nbsp;<input type="date" name="maxDate" placeholder="Max Date" class="form-control-sm col-5" />
+        </div>
+       
+     
+        <input type="submit" value="Filter" class="btn btn-primary btn-sm" />
+        <a asp-action="Index" class="btn btn-secondary btn-sm float-right">Clear</a>
+    </div>
+</form>
+
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-3">
+            <div class="card">
+                <a class="a-cleanup" asp-controller="marketplace" asp-action="Details" asp-route-id="@product.productid">
+                    <img src="@product.ImageUrl" class="card-img-top" />
+                    <div class="card-body" style="height: 6em;">
+                   
+                        <h6 class="mb-3">@product.farmerName</h6>
+                        <h6 class="mb-3">@product.category</h6>
+                        <h6 class="mb-3">@product.productionDate</h6>
+
+                    </div>
+                   
+                    <div class="card-body">
+                        <span class="card-text">@product.Price.ToString("C")</span>
+                        <a asp-controller="marketplace" asp-action="AddToCart" asp-route-id="@product.productid" class="btn btn-primary float-lg-end">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                        </a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+</div>

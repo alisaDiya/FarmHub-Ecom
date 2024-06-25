@@ -1,0 +1,54 @@
+﻿@model ST10037089__prog3ap2_Final_.Models.farmers
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>farmers</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.farmername)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.farmername)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.farmersurname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.farmersurname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.farmeremail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.farmeremail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.password)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.password)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.farmerType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.farmerType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.farmerLocation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.farmerLocation)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.farmerid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

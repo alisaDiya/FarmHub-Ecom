@@ -1,0 +1,78 @@
+﻿@model IEnumerable<ST10037089__prog3ap2_Final_.Models.farmers>
+
+@{
+    ViewData["Title"] = "Index";
+    string haspassword(farmers farmers)
+    {
+        if (farmers.password != "" && farmers.password != null)
+        {
+            return "fa-solid fa-check";
+        }
+        else
+        {
+            return "fa-solid fa-x";
+        }
+    }
+}
+
+<h1>Farmer Dhasboard</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">
+        <i class="fa-solid fa-address-book"></i> Add a new farmer
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.farmername)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.farmersurname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.farmeremail)
+            </th>
+            <th>
+               Has password
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.farmerType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.farmerLocation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr class="table-active">
+            <td>
+                @Html.DisplayFor(modelItem => item.farmername)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.farmersurname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.farmeremail)
+            </td>
+            <td>
+                    <i class="@haspassword(item)"></i>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.farmerType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.farmerLocation)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.farmerid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.farmerid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.farmerid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
